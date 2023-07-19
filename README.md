@@ -1,2 +1,3 @@
 # rest-api-example
-Example of how to create a rest api
+
+REST API using Node,Express,TypeScript and MongoDB. You can create, delete and update Users.
